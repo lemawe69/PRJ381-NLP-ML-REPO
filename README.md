@@ -10,4 +10,4 @@ pip install opencv-python
 pip install ultralytics opencv-python
 
 # 4. Run Model (VS Code Terminal):
-python detect.py
+python run.py
