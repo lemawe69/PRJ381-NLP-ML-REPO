@@ -1,2 +1,8 @@
-ultralytics
 opencv-python
+ultralytics
+tkinter
+numpy
+Pillow
+matplotlib
+PyQt5
+scikit-image
